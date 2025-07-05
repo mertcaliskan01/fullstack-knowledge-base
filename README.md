@@ -9,7 +9,7 @@ This repository is a continuously evolving knowledge base. The following topics 
 
 - React Design Patterns and Advanced Techniques  
 - Node.js & Backend Architectures  
-- AWS and DevOps Cost Optimization  
+- AWS and DevOps  
 - Software Architecture and Design Patterns  
 - Test Automation and Quality Assurance  
 - Technical Career Development
